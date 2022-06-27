@@ -13,3 +13,7 @@
 * [Docker - How to build faster](https://geshan.com.np/blog/2020/10/docker-build-example-faster-docker-build/)
 
 ## Data Science 
+
+## Projects
+
+* Create an application with responsive design, sass for style, react and go. And for infrastructure use docker and deploy in someplace like heroku. 
