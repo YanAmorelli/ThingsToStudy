@@ -7,7 +7,7 @@
 * [Memory Management](https://www.treinaweb.com.br/blog/gerenciamento-de-memoria-no-c-stack-heap-value-types-e-reference-types)
 
 ### Articles and informations
-*[Interview questions](https://balta.io/blog/perguntas-entrevista-csharp)
+* [Interview questions](https://balta.io/blog/perguntas-entrevista-csharp)
 
 ## Front-End
 
